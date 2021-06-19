@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSAccessCodes
+  title: Access Codes
+  author: GhostSalt
+  description: "Defuse this bomb for only \xA329.99! What a steal!\n\nA module that
+    has a staggeringly high level of self-importance.\n\nHeads up, Twitch Plays is
+    gonna need a work-around for autosolving this module. This module also has Twitch
+    Plays support if you couldn't tell. :)"
+  version: 1.0
+  outputFolder: C:\Program Files (x86)\Steam\steamapps\common\Keep Talking and Nobody
+    Explodes\mods
+  previewImage: {fileID: 2800000, guid: 7d802293fcad88145a081147113867aa, type: 3}
